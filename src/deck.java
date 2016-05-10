@@ -473,29 +473,6 @@ public class deck extends Application {
         fileTextRight.setText("");
         textDeckDiff.setText("");
         textDeckDiff2.setText("");
-
-//        //Menu file
-//        Menu menu = null;
-//
-//        //menu bar
-//        MenuBar bar = null;
-//
-//        //file items
-//        MenuItem item = null;
-//        MenuItem item2 = null;
-//        MenuItem item3 = null;
-//
-//        File chosenFileLeft = null;
-//        File chosenFileRight = null;
-//
-//        Scanner readFirstDeck = null;
-//        Scanner readSecondDeck = null;
-//        TextArea textDeckDiff = null;
-//        ArrayList<String> deck1 = null;
-//        ArrayList<String> deck2 = null;
-//
-//        File firstDeckFile = null;
-//        File secondDeckFile = null;
     }
 
 }
