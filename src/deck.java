@@ -470,6 +470,9 @@ public class deck extends Application {
         fileTextRight.setText("");
         textDeckDiff.setText("");
         textDeckDiff2.setText("");
+        
+        deck1Hash.clear();
+        deck2Hash.clear();
     }
 
 }
