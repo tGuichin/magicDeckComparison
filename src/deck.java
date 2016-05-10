@@ -47,7 +47,6 @@ public class deck extends Application {
 
     //file items
     MenuItem item;
-    MenuItem item2;
     MenuItem item3;
 
     File chosenFileLeft;
@@ -84,9 +83,7 @@ public class deck extends Application {
             }
         });
 
-        item2 = new MenuItem("Save");
         menu.getItems().add(item);
-        menu.getItems().add(item2);
 
         //MenuBar
         bar = new MenuBar();
